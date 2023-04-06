@@ -1,0 +1,26 @@
+{
+  "name": "leo-sf-symbols",
+  "version": "1.0.0",
+  "description": "Automatically generated symbols from Leo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallaciousreasoning/leo-sf-symbols.git"
+  },
+  "keywords": [
+    "leo",
+    "brave",
+    "sf-symbols",
+    "icons",
+    "ios"
+  ],
+  "author": "Jay Harris <jay.harris@outlook.co.nz>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/fallaciousreasoning/leo-sf-symbols/issues"
+  },
+  "homepage": "https://github.com/fallaciousreasoning/leo-sf-symbols#readme"
+}
