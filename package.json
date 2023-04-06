@@ -17,6 +17,9 @@
     "icons",
     "ios"
   ],
+  "devDependencies": {
+    "@brave/leo": "github:brave/leo#main"
+  },
   "author": "Jay Harris <jay.harris@outlook.co.nz>",
   "license": "MPL-2.0",
   "bugs": {
