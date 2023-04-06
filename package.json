@@ -4,6 +4,7 @@
   "description": "Automatically generated symbols from Leo",
   "main": "index.js",
   "scripts": {
+    "update-leo": "npm i github:brave/leo#main",
     "build": "OUTPUT_FOLDER=symbols node node_modules/@brave/leo/src/scripts/gen-sf-icons.js"
   },
   "repository": {
