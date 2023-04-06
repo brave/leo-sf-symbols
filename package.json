@@ -4,7 +4,7 @@
   "description": "Automatically generated symbols from Leo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "OUTPUT_FOLDER=symbols node node_modules/@brave/leo/src/scripts/gen-sf-icons.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,9 @@
     "ios"
   ],
   "devDependencies": {
-    "@brave/leo": "github:brave/leo#main"
+    "@brave/leo": "github:brave/leo#sf-icons",
+    "jsdom": "21.1.1",
+    "paper-jsdom-canvas": "0.12.17"
   },
   "author": "Jay Harris <jay.harris@outlook.co.nz>",
   "license": "MPL-2.0",
