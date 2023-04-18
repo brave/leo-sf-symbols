@@ -19,7 +19,7 @@
     "ios"
   ],
   "devDependencies": {
-    "@brave/leo": "github:brave/leo#sf-icons",
+    "@brave/leo": "github:brave/leo#main",
     "jsdom": "21.1.1",
     "paper-jsdom-canvas": "0.12.17"
   },
