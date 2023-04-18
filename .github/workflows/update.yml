@@ -1,0 +1,53 @@
+name: update
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: write # This is required for actions/checkout
+      pull-requests: write # For actions/github-script
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get npm cache directory path
+        id: npm-cache-dir-path
+        run: echo "dir=$(npm config get cache)" >> $GITHUB_OUTPUT
+
+      - uses: actions/cache@v3
+        id: npm-cache
+        with:
+          path: ${{ steps.npm-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
+      - name: Install dependencies
+        run: |
+          npm ci
+
+      - name: Update Leo
+        id: update-leo
+        run: |
+          npm run update-leo
+
+      - name: Rebuild Icons
+        id: build-icons
+        run: |
+          npm run build
+
+      - name: Check for modified symbols
+        id: check-symbols
+        run: echo modified=$(`git status --porcelain | grep -q symbols` && echo true || echo false) >> $GITHUB_OUTPUT
+      
+      - name: Commit & Push Changes
+        if: steps.check-symbols.outputs.modified == 'true'
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "[Automated] Update Icons"
+          git push
