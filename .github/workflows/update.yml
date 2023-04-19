@@ -46,6 +46,7 @@ jobs:
       - name: Commit & Push Changes
         if: steps.check-symbols.outputs.modified == 'true'
         run: |
+          npm --no-git-tag-version version patch
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
