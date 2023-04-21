@@ -37,12 +37,12 @@ jobs:
       - name: Rebuild Icons
         id: build-icons
         run: |
-          npm run build
+          npm run gen-sf-symbols
 
       - name: Check for modified symbols
         id: check-symbols
         run: echo modified=$(`git status --porcelain | grep -q symbols` && echo true || echo false) >> $GITHUB_OUTPUT
-      
+
       - name: Commit & Push Changes
         if: steps.check-symbols.outputs.modified == 'true'
         run: |

@@ -14,6 +14,6 @@ automatically when branches are merged.
 ## Manually Updating
 
 1. Run `npm update-leo` to upgrade to latest Leo (which may have new icons)
-2. Run `npm run build` to regenerate symbols
+2. Run `npm run gen-sf-symbols` to regenerate symbols
 
 Once the `sf-icons` branch in Leo lands we can automatically update Leo.
