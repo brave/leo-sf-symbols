@@ -37,6 +37,7 @@ jobs:
       - name: Rebuild Icons
         id: build-icons
         run: |
+          rm -rf symbols/
           npm run gen-sf-symbols
 
       - name: Check for modified symbols
