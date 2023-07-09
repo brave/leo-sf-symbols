@@ -78,15 +78,15 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
  <g id="Symbols">
   <g id="Regular-L" transform="matrix(6.45 0 0 6.45 1372.2675 1443)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" stroke="none" stroke-width="1"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#666d89" stroke-width="2"></path></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#667489" stroke-width="2"></path></g>
   </g>
   <g id="Regular-M" transform="matrix(5 0 0 5 1389.82 1030)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" stroke="none" stroke-width="1"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#666d89" stroke-width="2"></path></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#667489" stroke-width="2"></path></g>
   </g>
   <g id="Regular-S" transform="matrix(3.915 0 0 3.915 1402.75 614)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" stroke="none" stroke-width="1"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#666d89" stroke-width="2"></path></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M12.946,10.783l-1.67,1.426l2.172,0.324c-0.14995,0.00021 -0.2997,-0.01082 -0.448,-0.033h-5v-1h3c0.71328,-0.00006 1.4032,-0.25426 1.946,-0.717z" stroke="#667489" stroke-width="2"></path></g>
   </g>
  </g>
 </svg>
