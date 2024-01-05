@@ -78,15 +78,15 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
  <g id="Symbols">
   <g id="Regular-L" transform="matrix(6.45 0 0 6.45 1372.2675 1443)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" fill="none"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#687485"></circle></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#62757e"></circle></g>
   </g>
   <g id="Regular-M" transform="matrix(5 0 0 5 1389.82 1030)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" fill="none"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#687485"></circle></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#62757e"></circle></g>
   </g>
   <g id="Regular-S" transform="matrix(3.915 0 0 3.915 1402.75 614)">
     <defs><clipPath id="clip-1"><rect x="0" y="0" width="24" height="24" fill="none"></rect></clipPath></defs>
-<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#687485"></circle></g>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><circle cx="12" cy="12" r="2" fill="#62757e"></circle></g>
   </g>
  </g>
 </svg>
