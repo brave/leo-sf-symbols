@@ -1,6 +1,6 @@
 {
   "name": "leo-sf-symbols",
-  "version": "1.0.48",
+  "version": "1.0.49",
   "description": "Automatically generated symbols from Leo",
   "main": "index.js",
   "scripts": {
