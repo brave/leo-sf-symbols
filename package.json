@@ -21,7 +21,7 @@
   "devDependencies": {
     "@brave/leo": "github:brave/leo#main",
     "jsdom": "24.1.0",
-    "paper-jsdom-canvas": "0.12.17"
+    "paper-jsdom-canvas": "0.12.18"
   },
   "author": "Jay Harris <jay.harris@outlook.co.nz>",
   "license": "MPL-2.0",
