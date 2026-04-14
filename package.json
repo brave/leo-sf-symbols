@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "@brave/leo": "github:brave/leo#main",
-    "jsdom": "27.4.0",
+    "jsdom": "29.0.2",
     "paper-jsdom-canvas": "0.12.18"
   },
   "author": "Jay Harris <jay.harris@outlook.co.nz>",
