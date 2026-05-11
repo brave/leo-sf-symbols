@@ -1,5 +1,5 @@
 {
-  "name": "leo-sf-symbols",
+  "name": "@brave/leo-sf-symbols",
   "version": "1.0.98",
   "description": "Automatically generated symbols from Leo",
   "main": "index.js",
