@@ -21,7 +21,8 @@
   "devDependencies": {
     "@brave/leo": "github:brave/leo#main",
     "jsdom": "27.4.0",
-    "paper-jsdom-canvas": "0.12.18"
+    "paper-jsdom-canvas": "0.12.18",
+    "canvas": "3.2.0"
   },
   "overrides": {
     "@tootallnate/once": "3.0.1",
