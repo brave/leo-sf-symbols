@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This is obsolete and no longer kept up to date. The output can be found published to npm at https://www.npmjs.com/package/@brave/nala via https://github.com/brave/leo.
+
 # Leo SF Symbols
 
 This collection of SF Symbols is automatically generated from the icons in [Leo](https://github.com/brave/leo/tree/main/icons)
